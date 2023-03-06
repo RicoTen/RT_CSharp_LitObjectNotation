@@ -4,7 +4,7 @@
     {
         public string EncodeObject(object obj)
         {
-            object lastObj
+            object lastObj = new object;
         }
 
         public T DecodeObject<T>(string rtlon)
